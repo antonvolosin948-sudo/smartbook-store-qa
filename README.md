@@ -1,1 +1,1 @@
-# smartbook-store-qa - Version 1.0
+# smartbook-store-qa - Version 2.0
